@@ -1,10 +1,9 @@
 ## SQL Workout
 
-### Databae
+### Database
 For this SQL workout, we loaded data from a sample database provided by MySQL named [Sakila](https://dev.mysql.com/doc/sakila/en/sakila-installation.html).
 
 ![list of databases](Images/list_of_databases.png)
-
 
 ### Download the Sakila DB
 - Visit [this page](https://dev.mysql.com/doc/index-other.html) and find the "sakila database" under the *Example Databases* header:
@@ -14,8 +13,6 @@ For this SQL workout, we loaded data from a sample database provided by MySQL na
 - Click on the ["Zip" link](http://downloads.mysql.com/docs/sakila-db.zip) to download. This contains a zipped directory of all the files required to load the sample database.
 
 - On your computer, open the zip file, and **cd into the sakila-db directory that gets unzipped**. You should see three files:
-
-![three sakila files](Images/three_sakila_files.png)
 
 
 ### Installation of Sakila DB using the command line:
