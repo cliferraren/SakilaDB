@@ -3,7 +3,6 @@
 ### Database
 For this SQL workout, we loaded data from a sample database provided by MySQL named [Sakila](https://dev.mysql.com/doc/sakila/en/sakila-installation.html).
 
-![list of databases](Images/list_of_databases.png)
 
 ### Download the Sakila DB
 - Visit [this page](https://dev.mysql.com/doc/index-other.html) and find the "sakila database" under the *Example Databases* header:
